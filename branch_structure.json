@@ -1,0 +1,18 @@
+{
+  "default_branch": "develop",
+  "branches": [
+    "develop",
+    "origin",
+    "security/issue-18-audit-payment-and-wallet-flows-for-wcag-2-1-aa"
+  ],
+  "parent": {
+    "develop": null,
+    "origin": "develop",
+    "security/issue-18-audit-payment-and-wallet-flows-for-wcag-2-1-aa": "develop"
+  },
+  "order": [
+    "develop",
+    "origin",
+    "security/issue-18-audit-payment-and-wallet-flows-for-wcag-2-1-aa"
+  ]
+}
