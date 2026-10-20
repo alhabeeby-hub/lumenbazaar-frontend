@@ -7,8 +7,6 @@ playwright-report/
 test-results/
 .turbo/
 .vercel/
-.env
-.env.local
 .env.*.local
 *.tsbuildinfo
 pnpm-debug.log*
@@ -20,3 +18,4 @@ yarn-error.log*
 .backend-pin-temp/
 compute-hash.mjs
 get-hash.mjs
+config.bat
